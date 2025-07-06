@@ -2,9 +2,9 @@ import requests
 
 # Birleştirmek istediğin M3U dosyalarının URL'leri
 m3u_urls = [
-    "https://raw.githubusercontent.com/troy8865/veyissss/refs/heads/main/kablo.m3u",
-    "https://raw.githubusercontent.com/troy8865/veyissss/refs/heads/main/rectv.m3u",
-    "https://raw.githubusercontent.com/troy8865/veyissss/refs/heads/main/trgoals.m3u"
+    "https://raw.githubusercontent.com/vettelistrue/Vettel-TV-M3U/refs/heads/main/kablo.m3u",
+    "https://raw.githubusercontent.com/vettelistrue/Vettel-TV-M3U/refs/heads/main/rectv.m3u",
+    "https://raw.githubusercontent.com/vettelistrue/Vettel-TV-M3U/refs/heads/main/trgoals.m3u"
 ]
 
 # Çıktı dosyası adı
