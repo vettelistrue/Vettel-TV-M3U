@@ -6,7 +6,7 @@ https://tv.prectv54.lol/live/aspor.m3u8
 #EXTINF:-1 tvg-id="121" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/80d8999029533191ed8383fb12ccf042.jpg" tvg-name="EKOL SPORT" group-title="Spor",EKOL SPORT [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/viasatexplore.m3u8
+https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8
 #EXTINF:-1 tvg-id="137" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/f40c9c2ad62bd4e3ff87d5859ea2bb54.jpg" tvg-name="Euro Sport 1" group-title="Spor",Euro Sport 1 [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
